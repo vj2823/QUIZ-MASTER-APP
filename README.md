@@ -1,5 +1,4 @@
 # QUIZ-MASTER-APP
-# quiz-master
 mad1 project
 # Quiz Master - Project README
 
